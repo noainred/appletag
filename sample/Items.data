@@ -1,0 +1,62 @@
+[
+  {
+    "identifier": "AAAA-1111-airtag-keys",
+    "name": "열쇠고리",
+    "serialNumber": "XYZ123KEYS",
+    "batteryStatus": 1,
+    "location": {
+      "latitude": 37.5665,
+      "longitude": 126.9780,
+      "timeStamp": 1717804800000,
+      "horizontalAccuracy": 12.5,
+      "isInaccurate": false,
+      "isOld": false,
+      "positionType": "safeLocation"
+    },
+    "address": {
+      "mapItemFullAddress": "서울특별시 중구 세종대로 110",
+      "streetAddress": "세종대로 110",
+      "label": "서울시청"
+    }
+  },
+  {
+    "identifier": "BBBB-2222-airtag-bag",
+    "name": "백팩",
+    "serialNumber": "XYZ456BAG",
+    "batteryStatus": 2,
+    "location": {
+      "latitude": 37.5512,
+      "longitude": 126.9882,
+      "timeStamp": 1717804500000,
+      "horizontalAccuracy": 25.0,
+      "isInaccurate": false,
+      "isOld": false,
+      "positionType": "crowdsourced"
+    },
+    "address": {
+      "mapItemFullAddress": "서울특별시 용산구 이태원로 200",
+      "streetAddress": "이태원로 200",
+      "label": "이태원"
+    }
+  },
+  {
+    "identifier": "CCCC-3333-airtag-wallet",
+    "name": "지갑",
+    "serialNumber": "XYZ789WALLET",
+    "batteryStatus": 1,
+    "location": {
+      "latitude": 37.5796,
+      "longitude": 126.9770,
+      "timeStamp": 1717804200000,
+      "horizontalAccuracy": 8.0,
+      "isInaccurate": false,
+      "isOld": false,
+      "positionType": "safeLocation"
+    },
+    "address": {
+      "mapItemFullAddress": "서울특별시 종로구 사직로 161",
+      "streetAddress": "사직로 161",
+      "label": "경복궁"
+    }
+  }
+]
